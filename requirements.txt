@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+joblib
+jupyter
+notebook
+ipykernel
+matplotlib
+wordcloud
+Sastrawi
